@@ -2,7 +2,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_webtoon_app/models/webtoon_model.dart';
 import 'package:flutter_webtoon_app/services/api_service.dart';
-import 'package:flutter_webtoon_app/widget/detail_screen.dart';
+import 'package:flutter_webtoon_app/screens/detail_screen.dart';
 
 class Webtoon extends StatelessWidget {
   final String title, thumb, id;
