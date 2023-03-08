@@ -27,7 +27,7 @@ Flutter - Flutter 로 웹툰 앱 만들기
 
 ## Flutter 장단점
 
-</br?\>
+</br>
 
 
 - JavaScript 브릿지 없는 리액티브 뷰의 장점들을 가지고 있습니다. 빠르고, 부드럽고, 예측가능한 AOT 에서 Native 코드로 컴파일되는 언어입니다.
